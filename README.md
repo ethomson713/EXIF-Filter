@@ -10,10 +10,6 @@ Attributions:
 
 NOTE: only works on Windows
 
-Prerequisite Python libraries:
-tkinter
-exif
-
 ## Instructions
 ### Install libraries
 ```

@@ -14,8 +14,8 @@ Prerequisite Python libraries:
 tkinter
 exif
 
-##Instructions
-###Install libraries
+## Instructions
+### Install libraries
 '''
 pip3 install tkinter
 '''
@@ -23,9 +23,9 @@ pip3 install tkinter
 pip3 install exif
 '''
 
-###Download the program
+### Download the program
 
-###Download assets.zip, decompress as a folder, put it in the same location as the program
+### Download assets.zip, decompress as a folder, put it in the same location as the program
 
-###Run the program
+### Run the program
 

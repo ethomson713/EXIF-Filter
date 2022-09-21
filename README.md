@@ -16,12 +16,12 @@ exif
 
 ## Instructions
 ### Install libraries
-'''
+```
 pip3 install tkinter
-'''
-'''
+```
+```
 pip3 install exif
-'''
+```
 
 ### Download the program
 
